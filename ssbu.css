@@ -1,0 +1,30 @@
+* {
+    padding: 5px;
+}
+body {
+    background-color: wheat;
+}
+
+h1 {
+    color: brown;
+}
+
+table {
+    border: 3px solid black;
+
+}
+
+th {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border: 3px solid black;
+}
+
+td {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border: 3px solid black;
+    text-align: center;
+}
+
+a {
+    color: black;
+}
